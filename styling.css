@@ -1,0 +1,73 @@
+#heading1 {
+    font-family: abril-fatface;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    color: #1A535C;
+    background-color: #FF6B6B;
+}
+#heading2 {
+    text-align: center;
+    font-style: normal;
+    font-family: alice;
+    font-weight: 400;
+    color: #1A535C;
+}
+
+#works1 {
+	max-width: 231px;
+	max-height: 20px;
+}
+#projects {
+	width: 240px;
+	height: 240px;
+	right: 89px;
+	left: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}
+
+#project_images {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: auto;
+
+}
+#project_logo {
+  	width: 40%;
+  	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#project_center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: auto;
+}
+
+
+#work_images {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: auto;
+}
+#aboutme {
+    text-shadow: 0px 0px;
+    background-color: #FFE66D;
+
+
+
+}
+#aboutme_content {
+    max-width: 50%;
+    text-align: justify;
+    font-family: alice;
+    font-style: normal;
+    font-weight: 400;
+}
